@@ -12,22 +12,21 @@ Software engineering is “(1) the application of a systematic, disciplined, qua
 ### 软件生命周期
 在时间维度，对软件项目任务进行划分，又成为软件开发过程，是将软件开发工作划分为不同的阶段，以改进设计、产品管理和项目管理的过程。常见有瀑布模型、螺旋模型、敏捷的模型等。
 ### SWEBoK 的 15 个知识域（An Overview of the SWEBOK Guide 请中文翻译其名称与简短说明）
-- Software Requirements：软件需求
-- Software Design：软件设计
-- Software Construction：软件构建
-- Software Testing：软件测试
-- Software Maintenance:软件维护
-- Software Configuration Management:软件配置管理
-- Software Engineering Management:软件工程管理
-- Software Engineering Process:软件工程过程
-- Software Engineering Models and Methods:软件工程模型与方法
-- Software Quality:软件质量
-- Software Engineering Professional Practice:软件工程专业实践
-- Software Engineering Economics:软件工程经济
-- Computing Foundations:计算基础
-- Mathematical Foundations:数学基础
-- Engineering Foundations:工程基础
-
+- Software Requirements：软件需求，对软件产品的需求和约束；
+- Software Design：软件设计，设计过程和最终产品；
+- Software Construction：软件构建，对工作软件进行详细的创建；
+- Software Testing：软件测试，通过识别缺陷来评估产品质量和改进产品质量的活动；
+- Software Maintenance:软件维护，增强现有的功能，使软件适应新的和修改过的操作环境，以及纠正缺陷；
+- Software Configuration Management:软件配置管理，系统地控制配置的变更，以及在整个软件生命周期中维护配置的完整性和可跟踪性；
+- Software Engineering Management:软件工程管理，计划、协调、度量、报告和控制一个项目或程序，以确保软件的开发和维护是系统的、有纪律的和量化的；
+- Software Engineering Process:软件工程过程，软件生命周期过程的定义、实现、评估、度量、管理和改进；
+- Software Engineering Models and Methods:软件工程模型与方法，建模，模型的类型，分析以及软件开发方法；
+- Software Quality:软件质量，软件质量的基础，管理过程以及实际的考虑；
+- Software Engineering Professional Practice:软件工程专业实践，软件工程师必须具备的知识、技能和态度，以便以专业、负责任和合乎道德的方式实践软件工程；
+- Software Engineering Economics:软件工程经济，在业务上下文中做出与组织的业务目标保持一致的决策；
+- Computing Foundations:计算基础，软件工程实践提供必要的计算背景的基本知识；
+- Mathematical Foundations:数学基础，软件工程实践提供必要的数学背景的基本知识；
+- Engineering Foundations:工程基础，软件工程实践提供必要的工程背景的基本知识。
 
 ### 简单解释 CMMI 的五个级别。例如：Level 1 - Initial：无序，自发生产模式。
 - Level 1 - Initial：无序，自发生产模式；
